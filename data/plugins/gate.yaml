@@ -1,0 +1,4 @@
+name: GATE
+repo: https://github.com/G4LL4H4D/gate
+tagline: Caps concurrent local-model subagents and reroutes overflow to a cloud model
+description: GATE caps concurrent local-model subagents and reroutes overflow to a cloud model. Includes a TUI panel for monitoring and settings configuration. Published as opencode-gate on npm, built on the V2 @opencode/plugin API, MIT licensed.
